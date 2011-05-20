@@ -1,7 +1,7 @@
 Description
 -----------
 
-Sonatype [Maven Shell](http://mvnsh.sonatype.org) (`mvnsh`) - OSS Version
+Sonatype [Mvnsh](http://mvnsh.sonatype.org) (`mvnsh`) - OSS Version
 
 License
 -------
