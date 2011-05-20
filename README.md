@@ -1,7 +1,7 @@
 Description
 -----------
 
-Sonatype [Mvnsh](http://mvnsh.sonatype.org) (`mvnsh`) - OSS Version
+Sonatype [Mvnsh](http://shell.sonatype.org) (`mvnsh`) - OSS Version
 
 License
 -------
