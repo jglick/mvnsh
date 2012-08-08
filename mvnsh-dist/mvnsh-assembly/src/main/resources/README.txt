@@ -3,5 +3,5 @@ Sonatype Maven Shell
 
 Please see the following URLs for more information:
 
- * http://shell.sonatype.org/
+ * https://docs.sonatype.org/display/MVNSH/Home
  * http://github.com/sonatype/mvnsh

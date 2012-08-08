@@ -1,7 +1,7 @@
 Description
 -----------
 
-Sonatype [Mvnsh](http://shell.sonatype.org) (`mvnsh`) - OSS Version
+Sonatype [Mvnsh](https://docs.sonatype.org/display/MVNSH/Home) (`mvnsh`) - OSS Version
 
 License
 -------
@@ -42,8 +42,8 @@ Building
 
 ### Requirements
 
-* [Maven](http://maven.apache.org) 2+
-* [Java](http://java.sun.com/) 5+
+* [Maven](http://maven.apache.org/) 2+
+* [Java](http://www.oracle.com/technetwork/java/index.html) 5+
 
 Check-out and build:
 
@@ -57,4 +57,4 @@ Extract the assembly and execute the shell:
     ./mvnsh-*/bin/mvnsh
 
 [1]: http://growl.info/
-[2]: https://jna.dev.java.net/
+[2]: https://github.com/twall/jna

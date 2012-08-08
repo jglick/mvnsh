@@ -45,18 +45,13 @@
         </license>
     </licenses>
 
-    <url>http://shell.sonatype.org/</url>
+    <url>https://docs.sonatype.org/display/MVNSH/Home</url>
 
     <scm>
         <connection>scm:git:git://github.com/sonatype/mvnsh.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/sonatype/mvnsh.git</developerConnection>
         <url>https://github.com/sonatype/mvnsh</url>
     </scm>
-
-    <ciManagement>
-        <system>Hudson</system>
-        <url>https://grid.sonatype.org/ci/job/Maven-Shell</url>
-    </ciManagement>
 
     <issueManagement>
         <system>JIRA</system>
