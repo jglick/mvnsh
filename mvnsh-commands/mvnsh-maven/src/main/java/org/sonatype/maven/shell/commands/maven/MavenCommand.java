@@ -66,7 +66,7 @@ public class MavenCommand
     private boolean version;
 
     @Option(name="f", longName="file")
-    private File file;
+    File file;
 
     private Properties props;
 
@@ -224,7 +224,7 @@ public class MavenCommand
     private String encryptPassword;
 
     @Argument
-    private List<String> goals;
+    List<String> goals;
 
     private static enum Notifications
     {
